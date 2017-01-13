@@ -1,6 +1,6 @@
 <snippet>
   <content><![CDATA[
-# ${1:Hero Quiz}
+#Hero Quiz
 Android application created as intro to layout widgets at EXE club android development group. 
 ## Installation
 Android Studio is needed.  Once installed, either connect an android device or create a virtual device to run on.  Click run and select your device.
