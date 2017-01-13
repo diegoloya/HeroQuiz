@@ -1,5 +1,5 @@
 <snippet>
-  <content><![CDATA[
+  <content>
 #Hero Quiz
 Android application created as intro to layout widgets at EXE club android development group. 
 ## Installation
